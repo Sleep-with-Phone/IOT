@@ -1,0 +1,15 @@
+Added Component: Designator=LED?(LED0603-R-RD)
+Added Component: Designator=U?(SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR)
+Added Component: Designator=U?(PWRM-TH_HLK-PM01)
+Added Component: Designator=U?(LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL)
+Added Component: Designator=U?(SMD-6_L8.7-W6.5-P2.54-LS10.6-BL)
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-2
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-4
+Added Net: Name=VCC_3.3V
+Added Pin To Net: NetName=VCC_5V Pin=U?-3
+Added Pin To Net: NetName=VCC_5V Pin=U?-4
+Added Net: Name=VCC_5V
+Added Class: Name=Sheet1
